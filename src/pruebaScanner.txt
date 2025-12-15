@@ -1,0 +1,10 @@
+int (*p)[10];
+char *x;
+void f();
+double matriz[20];
+float (*fp)();
+T ()
+int int char void ;;; [] ; char []
+no detecta errores sintacticos ; solo lexicos
+@$~
+//
