@@ -4,14 +4,14 @@ Grupo 4
 
 Autores:
 
-| Usuario | Legajo | Apellido | Nombre |
-|---------|--------|----------|--------|
-| marcosegan  | 220.817-9 | Egan  | Marcos Ariel |
-| aculeddu        | 220.808-8       | Culeddu         | Ana Clara       |
-| Lucawieczorek1  | 211.507-4   | Wieczorek    | Luca       |
-| Maximiliano-E-Gigli| 222.352-1| Gigli | Maximiliano |
-| FedericoLopezLapaz| 222.465-3| Lopez Lapaz| Federico Gabriel |
-| tinogera | 213.742-2-3| Gerardi | Santino |
+| Usuario  |Apellido | Nombre |
+|-------------------|--------|
+| marcosegan  |Marcos Ariel |
+| aculeddu        |  Culeddu         | Ana Clara       |
+| Lucawieczorek1  |  Wieczorek    | Luca       |
+| Maximiliano-E-Gigli| Gigli | Maximiliano |
+| FedericoLopezLapaz|  Lopez Lapaz| Federico Gabriel |
+| tinogera | Gerardi | Santino |
 
 ## Objetivo
 
