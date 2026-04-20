@@ -4,8 +4,8 @@ Grupo 4
 
 Autores:
 
-| Usuario  |Apellido | Nombre |
-|-------------------|--------|
+| Usuario |Apellido | Nombre |
+|--------|--------|-------|
 | marcosegan  |Marcos Ariel |
 | aculeddu        |  Culeddu         | Ana Clara       |
 | Lucawieczorek1  |  Wieczorek    | Luca       |
